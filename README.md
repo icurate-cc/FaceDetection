@@ -5,7 +5,7 @@ msvc build tools, cmake
 
 pip install face_recognition
 
-manual install dlib-master for GPU - only works with CUDA v12.9 and cudnn_v8 <-- this step is painful
+manual install dlib-master for GPU - only works with CUDA v12.9 and cudnn_v8
 
 pip install jupyter notebook
 
