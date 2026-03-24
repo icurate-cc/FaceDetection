@@ -1,6 +1,6 @@
-Copyrighted by icurate.cc
-Visit the website for more interesting stuff!
-
+Copyright (c) 2026 icurate.cc  
+Visit the website for more interesting stuff!  
+  
 This short code loads all "known faces", loads webcam feed, and does realtime facial recognition matching - i only did it for family members not sure how well it works for larger known face sets.
 makes "human detected" alert for unknown faces, and "welcome home" for known faces. Running on a RTX3070. No data centers needed.
 
